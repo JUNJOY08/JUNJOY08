@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20JUNJOY%20Github&fontSize=50&animation=twinkling&text-color=black)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20JUNJOY%20Room&fontSize=50&animation=twinkling&text-color=black)
 
 <h3 align="center"><b>About me :v:</b></h3>
 
