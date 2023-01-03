@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20JUNJOY%20Github&fontSize=50&animation=twinkling&text-color=black)
 
 <h3 align="center"><b>About me :v:</b></h3>
-<p align="center"><a href="자신의 블로그 주소" target="_blank"><img src="https://img.shields.io/badge/BLOG-EA4AAA?style=flat&logo=GitHub Sponsors&logoColor=white"/></a></p>
+
 
 <p align="center">Hi There! I'm a Client developer.</p>
 <p align="center"> My main skills are Android,Kotlin,Python.</p>
