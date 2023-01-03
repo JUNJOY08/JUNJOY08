@@ -4,7 +4,7 @@
 
 
 <p align="center">Hi There! I'm a Client developer.</p>
-<p align="center"> My main skills are Android,Kotlin,Python.</p>
+<p align="center"> My main skills are Android,Java,Python.</p>
 <p align="center">I am a developer that continues to grow in the future. 🔥</p>
 <p align="center">Please look forward to my growth. Bye~</p>
 
